@@ -113,7 +113,7 @@ MACHINE TRANSLATION</a></td>
 NEURAL MACHINE TRANSLATION</a></td>
       <td align="left"> <ul><li> WMT16 Ro→En </li></ul></td>
       <td align="left"> <ul><li> BLEU: 31.44 </li></ul> </td>
-      <td align="left"><ul><li><a href=''>NOT FOUND</a></ul></li></td>
+      <td align="left"><ul><li><a href='https://github.com/salesforce/nonauto-nmt'>PyTorch</a></ul></li></td>
       <td align="left">2017</td>    
       </tr>
           <tr>
@@ -326,7 +326,7 @@ Research Paper | Datasets  | Metric | Source Code | Year
       <td><a href='https://arxiv.org/pdf/1611.05431.pdf'>Aggregated Residual Transformations for Deep Neural Networks </a></td>
       <td align="left"> <ul><li>   ImageNet-1k  </li></ul></td>
       <td align="left"> <ul><li> Top-1 Error: 20.4% </li></ul> </td>
-      <td align="left"> <ul><li>  <a href='https://github.com/facebookresearch/ResNeXt'>PyTorch</a> </li></ul> </td>
+      <td align="left"> <ul><li>  <a href='https://github.com/facebookresearch/ResNeXt'>Torch</a> </li></ul> </td>
       <td align="left">2016</td>    
     </tr>
   </tbody>
